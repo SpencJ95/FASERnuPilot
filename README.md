@@ -1,7 +1,7 @@
 # FASERnuPilot
 #Clone the FASERnuPilot git repo:
 
-git clone https://gitlab.cern.ch/jwspence/fasernupilot.git -b muplus
+git clone https://github.com/SpencJ95/fasernupilot.git
 
 #Setup the LHC computing grid:
 
